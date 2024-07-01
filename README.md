@@ -25,7 +25,7 @@
 
 # INSTALLATION(LINUX):
 ```bash
-git clone https://github.com/Lucksi/Interceptor
+git clone https://github.com/rizmee/GPS-Geolocation
 cd Interceptor
 sudo chmod +x Installer.sh
 sudo bash Installer.sh
